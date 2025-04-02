@@ -1,0 +1,17 @@
+/* All the CSS from your original file goes here */
+/* Just remove the style tags and keep the content */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    overflow: hidden;
+    touch-action: manipulation;
+    image-rendering: pixelated;
+    transition: background-color 0.3s;
+}
+
+/* Rest of your CSS... */
